@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: [Haris Sohail]
-description: [Nothing To See Here]
+title: Haris Sohail
+description: Nothing To See Here
+show_downloads: true
+google_analytics:
